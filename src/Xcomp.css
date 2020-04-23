@@ -1,0 +1,13 @@
+.Xcomponent-parent{
+  background-color: rgba(0, 0, 0, 0.137);
+  border-color: black;
+  border-style: solid;
+  height: auto;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  
+}
+.button1{
+  margin: 1rem;
+}
